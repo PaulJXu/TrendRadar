@@ -23,8 +23,6 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
@@ -32,24 +30,25 @@ deepmind
 
 chatgpt
 openai
-sora
-
 claude
 Anthropic
 
+数据科学
+data science
 ai
 !gai
 人工智能
+data governance
 
-自动驾驶
-
-机器人
-
-芯片
-光刻机
+生物
+医药
 
 科技
-
-核能
-
 新质生产力
+
+雅思
+IELTS
+海外英语考试
+托福
+TOEFL
+PTE
